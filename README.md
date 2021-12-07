@@ -7,6 +7,6 @@ In this repository I will post my solutions to Advent of Code programming puzzle
 |            | :christmas_tree: | :santa:    | :snowflake:	| :angel:   | :star2:   |    :gift: |
 |       ---- |             ---- |       ---- |         ---- |      ---- |      ---- |      ---- |
 | :snowman:  | :sparkle:        | :sparkle:  | :sparkle:    | :sparkle: | :sparkle: | :sparkle: |
-| :cookie:	 |                  |            |              |           |           |           |
+| :cookie:	 | :sparkle:        |            |              |           |           |           |
 | :elf:      |                  |            |              |           |           |           |
 | :sparkler: |                  |            |              |           |           |           |
